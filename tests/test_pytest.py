@@ -12,7 +12,7 @@ def test_assert_positive_cese():
     assert (2 + 2) == 4
 
 def test_assert_negative_cese():
-    assert (2 + 2) != 5
+    assert (2 + 2) == 5
 
 
 
