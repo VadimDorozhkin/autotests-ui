@@ -1,3 +1,4 @@
+
 pytest_plugins = (
-    "fixtures.browsers.chromium"
+    "fixtures.browsers"
 )
